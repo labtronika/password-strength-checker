@@ -1,0 +1,1 @@
+A Password Strength Checker is a software tool or algorithm that evaluates how resistant a password is to guessing and brute-force attacks.
