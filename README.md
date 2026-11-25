@@ -227,7 +227,6 @@ This project is intended to practice:
 - Basic cyber security concepts
 - Git and GitHub workflow
 
-
 ---
 
 # Developer
